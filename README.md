@@ -7,3 +7,6 @@
 ### PCB CNC
 
 [tutorial - pcb milling via flatcam](https://www.youtube.com/watch?v=--Cb11heuHc)
+
+#### Random Notes
+Why is the flatcam beta so hard to download?
